@@ -1,0 +1,11 @@
+[project]
+
+name = "curses"
+version = "0.1.0"
+authors = [ "Daniel Fagnan <dnfagnan@gmail.com>" ]
+
+[[lib]]
+
+name = "curses"
+path = "src/curses/curses.rs"
+
