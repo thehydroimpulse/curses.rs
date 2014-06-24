@@ -9,3 +9,6 @@ authors = [ "Daniel Fagnan <dnfagnan@gmail.com>" ]
 name = "curses"
 path = "src/curses/curses.rs"
 
+[[bin]]
+
+name = "curses_example"
